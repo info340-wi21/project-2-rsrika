@@ -11,6 +11,7 @@ export function RenderForm (props) {
   return (
   <form>
     <h2>Filter</h2>
+    <span className='iTechModules'>ANSWER 3: "Guten Tag"</span>
     <nobr className="filtertype">Contains:</nobr><br />
     <input type="checkbox" name="contains1" value="chocolate" alt="chocolate button"/>
     <label htmlFor="contains1">

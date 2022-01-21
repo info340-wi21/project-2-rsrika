@@ -1,0 +1,26 @@
+"filename", "language", "CSS", "JSON", "JavaScript", "HTML", "Markdown", "comment", "blank", "total"
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\README.md", "Markdown", 0, 0, 0, 0, 3, 0, 3, 6
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\css\style.css", "CSS", 15, 0, 0, 0, 0, 1, 0, 16
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\firebase.json", "JSON", 0, 7, 0, 0, 0, 10, 0, 17
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\package-lock.json", "JSON", 0, 17841, 0, 0, 0, 0, 1, 17842
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\package.json", "JSON", 0, 45, 0, 0, 0, 0, 1, 46
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\public\index.html", "HTML", 0, 0, 0, 39, 0, 3, 2, 44
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\public\manifest.json", "JSON", 0, 25, 0, 0, 0, 0, 1, 26
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\App.js", "JavaScript", 0, 0, 215, 0, 0, 27, 43, 285
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\about.js", "JavaScript", 0, 0, 74, 0, 0, 2, 2, 78
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\addModal.js", "JavaScript", 0, 0, 121, 0, 0, 1, 12, 134
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\addedCandies.js", "JavaScript", 0, 0, 38, 0, 0, 2, 8, 48
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\cards.js", "JavaScript", 0, 0, 136, 0, 0, 17, 24, 177
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\components.js", "JavaScript", 0, 0, 97, 0, 0, 7, 15, 119
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\data\README.md", "Markdown", 0, 0, 0, 0, 18, 0, 6, 24
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\data\candy-data.json", "JSON", 0, 1662, 0, 0, 0, 0, 1, 1663
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\favorites.js", "JavaScript", 0, 0, 37, 0, 0, 2, 4, 43
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\form_modal_filters.js", "JavaScript", 0, 0, 156, 0, 0, 2, 1, 159
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\index.js", "JavaScript", 0, 0, 34, 0, 0, 3, 8, 45
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\indv.js", "JavaScript", 0, 0, 73, 0, 0, 7, 11, 91
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\mainFilterForm.js", "JavaScript", 0, 0, 60, 0, 0, 3, 8, 71
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\modalFilterForm.js", "JavaScript", 0, 0, 18, 0, 0, 5, 3, 26
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\navbar.js", "JavaScript", 0, 0, 61, 0, 0, 2, 8, 71
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\signInPromptModal.js", "JavaScript", 0, 0, 19, 0, 0, 1, 2, 22
+"c:\Users\roshe\OneDrive - UW\Freshman Year\INFO classes\INFO 340\project-2-rsrika\src\website-style.css", "CSS", 422, 0, 0, 0, 0, 20, 29, 471
+"Total", "-", 437, 19580, 1139, 39, 21, 115, 193, 21524

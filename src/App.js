@@ -253,7 +253,7 @@ function App (props) {
                   <AddModal signedIn={signedIn} currentUser={user} handleModalClose={handleAddModalClose} candyNum={candydata.length} />
                   <div className="small-view">
                     <ButtonsSmall handleClick={handleClick} likeCallBack={handleLike} filterButtonCallBack={handleModalPopup}/>
-                    <Modal  handleSugarMin={handleSugarMin} handleSugarMax={handleSugarMax}  handleSubmit={handleFormSubmit} handleClose={handleModalClose}/>
+                    <Modal handleSugarMin={handleSugarMin} handleSugarMax={handleSugarMax}  handleSubmit={handleFormSubmit} handleClose={handleModalClose}/>
                     
                   </div>
                   <br/><br/><br/>

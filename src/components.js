@@ -24,6 +24,7 @@ export function Header() {
               <div className="a">
                   <div className="header-row">
                       <div className="header-image">
+                          <span className='iTechModules'>ANSWER 1: Hruff Hruff</span>
                           <img className="logo" src="img/icon.png" alt="candy website logo"/>
                       </div>
                       <div className="header-text">
@@ -112,6 +113,7 @@ export function Footer() {
         <p>Created by Sachi Figliolini, Victoria Nguyen, and Roshni Srikanth</p>
         <p>Images taken from&nbsp;
           <a href="https://www.candywarehouse.com/">Candy Warehouse</a>
+          <span className='iTechModules'>ANSWER 4: They always crash</span>
         </p>
       </div>
     );

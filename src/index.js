@@ -21,8 +21,6 @@ firebase.initializeApp(firebaseConfig);
 firebase.analytics()
 let STATE = {currentData:CANDY_DATA};
 
-
-
 fetch("data/candy-data.json")
     // gets the data as a json file
     .then(function(response){

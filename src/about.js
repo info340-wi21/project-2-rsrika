@@ -67,6 +67,7 @@ function MakeAuthors() {
             <div className="author-col">
                 <img src="./img/roshni.JPG" alt="Roshni Srikanth"></img>
                 <h3>Roshni Srikanth</h3>
+                <span className='iTechModules'>ANSWER 5: A Dell</span>
                 <p>Roshni Srikanth is a freshman studying Informatics at the University of Washington. She is a student in the Interdisciplinary Honors Program and is the Director of Diversity Efforts for WINFO (Women in Informatics). She is interested in studying technology, its interaction with culture, and sustainability. Outside of school, she loves to read, eat, cook, and play with her dog Mango.</p>
                 <a href="https://www.linkedin.com/in/roshni-srikanth/" target="_blank" rel="noreferrer">
                     <img className="linkedin" src="./img/linkedin.png" alt="linkedin logo"></img>
